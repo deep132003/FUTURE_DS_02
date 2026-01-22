@@ -61,11 +61,6 @@ It helps track key marketing KPIs like impressions, clicks, CTR, conversion rate
 
 ---
 
-## 🖼 Dashboard Preview
-![Dashboard Preview](dashboard.png)
-
----
-
 ## 📂 Files in this Repository
 - `Ads_Performance_Dashboard.pbix` → Power BI dashboard file
 - `dashboard.png` → Dashboard screenshot
